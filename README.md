@@ -12,13 +12,13 @@
 <a href="https://t.me/Julia6590">
 <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="">
+<a href="https://us05web.zoom.us/j/6967756729?pwd=OFo5bExMV3d5S09BM3hxM05FNGEvZz09">
 <img src="https://img.shields.io/badge/Zoom-darkblue?logo=Zoom&logoColor=white" alt="zoom"/>
 </a>
-<a href="">
+<a href="https://join.skype.com/invite/LfVNuUvleBRK">
 <img src="https://img.shields.io/badge/Skype-blue?logo=Skype&logoColor=white" alt="skype"/>
 </a>
-<a href="">
+<a href="july.shuryakova@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </div>
